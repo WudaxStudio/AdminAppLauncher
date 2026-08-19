@@ -1,0 +1,13 @@
+# Compiled binary
+*.exe
+
+# Configuration (contains encrypted credentials)
+config.xml
+
+# Test files
+test_*.png
+
+# Temporary files
+*.ps1
+inner_*.ps1
+outer_*.ps1
